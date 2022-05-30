@@ -13,7 +13,7 @@ The purpose of this activity is twofold:
 ![](title_count.png)
 
 
-3. In the available pool of pending retirees, there are 1,549 employees eligible for the mentorship program.
+3. In the available pool of pending retirees, only 1,549 employees eligible for the mentorship program.
 
 4. Most of these fall under Staff (420), Senior Staff (304), Senior Engineer (398), and Engineer (302).
 ![](mentor_title.png)
