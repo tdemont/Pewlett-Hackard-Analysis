@@ -7,9 +7,14 @@ The purpose of this activity is twofold:
 
 ## Results
 1. Of the expected retirements, the majority of the 72,458 individuals fall in the Senior Engineer (25,916) and Senior Staff (24,926) titles.
+
 2. Conversely, only two managers are expected to retire.
+
 ![](title_count.png)
+
+
 3. In the available pool of pending retirees, there are 1,549 employees eligible for the mentorship program.
+
 4. Most of these fall under Staff (420), Senior Staff (304), Senior Engineer (398), and Engineer (302).
 ![](mentor_title.png)
 
