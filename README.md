@@ -19,4 +19,4 @@ The purpose of this activity is twofold:
 ![](mentor_title.png)
 
 ## Summary
-Effectively, 72,458 roles will need to be filled in the upcoming "silver tsunami."  With this in mind, only 1,549 employees are currently qualified to serve as mentors in the new program.  With roughly 2% of the total potential retirees being eligible, there may need to be a targeted approach.  ne possible additional query could be to assess which specific departments have the greatest need.  Seperately, another query could be run on retiring gender, as the company may want to consider that in maintaining diversity in the workforce.
+Effectively, 72,458 roles will need to be filled in the upcoming "silver tsunami."  With this in mind, only 1,549 employees are currently qualified to serve as mentors in the new program.  With roughly 2% of the total potential retirees being eligible, there may need to be a targeted approach.  ne possible additional query could be to assess which specific departments have the greatest need.  Seperately, another query could be run on retiring gender, as the company may likely consider that in maintaining diversity in the workforce.
